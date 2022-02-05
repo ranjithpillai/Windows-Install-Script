@@ -45,4 +45,3 @@ Microsoft.XboxGameOverlay
 Microsoft.XboxGamingOverlay
 Microsoft.MixedReality.Portal
 Microsoft.Xbox.TCUI
-Microsoft.XboxGameCallableUi
