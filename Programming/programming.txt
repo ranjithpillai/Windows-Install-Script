@@ -8,3 +8,5 @@ Axosoft.GitKraken
 BellSoft.LibericaJDK.17.Full
 JetBrains.IntelliJIDEA.Community
 Google.AndroidStudio
+OpenJS.NodeJS.LTS
+GoLang.Go
