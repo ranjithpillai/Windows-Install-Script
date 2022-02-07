@@ -2,3 +2,4 @@ Discord.Discord
 flux.flux
 RARLab.WinRAR
 Rainmeter
+voidtools.Everything
